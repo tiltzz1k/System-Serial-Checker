@@ -1,12 +1,11 @@
 #include <iostream>
 #include <comdef.h>
 #include <Wbemidl.h>
+#include <consoleapi.h>
+#include <WinBase.h>
 
 #pragma comment(lib, "wbemuuid.lib")
 
-#include <consoleapi.h>
-#include <iostream>
-#include <WinBase.h>
 
 void setConsoleTextColor(int r, int g, int b) {
     HANDLE hConsole = GetStdHandle(STD_OUTPUT_HANDLE);
