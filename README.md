@@ -13,7 +13,7 @@ Retrieves:
 * Disk Drive Serial Number.
 * System UUID.
 
-More than that can be added to the Checker.
+More than that can be added to the Serial Checker.
 
 # Gradient Text Output:
 
@@ -23,6 +23,5 @@ Smooth transition from light blue to purple for an aesthetic console output.
 # ASCII Art Header:
 Displays a customizable ASCII art title with gradient coloring for branding or visual flair.
 
-C
 # Compatibility:
 * Designed for Windows x64 systems.
