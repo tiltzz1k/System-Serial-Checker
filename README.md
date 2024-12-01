@@ -12,7 +12,9 @@ Retrieves:
 * Baseboard Serial Number.
 * Disk Drive Serial Number.
 * System UUID.
-* 
+
+More than that can be added to the Checker.
+
 # Gradient Text Output:
 
 Applies a gradient effect to ASCII art, section titles, and retrieved serial numbers.
